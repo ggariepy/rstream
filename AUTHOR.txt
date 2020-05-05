@@ -1,0 +1,16 @@
+﻿About the author:
+=================
+My name is Geoff Gariepy, and I live in the Detroit, Michigan, USA metropolitan area.  
+
+I write and maintain software for a living.
+
+If you want to contact me, my email address is geoff.gariepy@gmail.com
+
+If you are making use of this software, it would be nice of you to tell me
+how you are using it and in which country/region you sit while writing your code.  
+
+If you are feeling generous, want to encourage my efforts, or are compelled by 
+your OCD to arrange it so your bank account's current balance is a nice, round
+number, you can send me the local price of a beer, coffee or soft drink to
+the email address above via Paypal.  Feel free to suggest what beverage, exactly,
+you had in mind.  I might even try it.

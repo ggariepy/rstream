@@ -1,0 +1,12 @@
+﻿Contributors and End Users:
+===========================
+Please contribute.  Please do as you will with the software.  However, please
+keep the software free under the same terms as the above.  
+
+The best way to do this is to include the following statement in your contributions:
+
+"I dedicate any and all copyright interest in this software to the
+public domain. I make this dedication for the benefit of the public at
+large and to the detriment of my heirs and successors. I intend this
+dedication to be an overt act of relinquishment in perpetuity of all
+present and future rights to this software under copyright law."

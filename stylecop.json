@@ -1,0 +1,17 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/DotNetAnalyzers/StyleCopAnalyzers/master/StyleCop.Analyzers/StyleCop.Analyzers/Settings/stylecop.schema.json",
+  "settings": {
+    "orderingRules": {
+      "usingDirectivesPlacement": "outsideNamespace",
+      "systemUsingDirectivesFirst": false
+    },
+    "namingRules": {
+      "allowCommonHungarianPrefixes": true
+    },
+    "documentationRules": {
+      "copyrightText": "Released under the terms of the Unlicense.  Visit http://unlicense.org/"
+    },
+    "readabilityRules": { "allowBuiltInTypeAliases": false },
+    "layoutRules": { "newlineAtEndOfFile": "allow" }
+  }
+}
